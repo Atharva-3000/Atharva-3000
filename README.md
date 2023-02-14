@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm <h1 style="color:blue;">Atharva Deshmukh</h1></h1>
 <h3 align="center">A passionate MERN developer from India, currently pursuing B.Tech from Parul University. Hobby: Content Writing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-3000&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-3000" /> </p>
