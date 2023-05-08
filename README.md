@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
 <h3 align="center">A passionate and upcoming MERN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-3000&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-3000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-3000" alt="atharva-3000" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/powxu_xd" target="blank"><img src="https://img.shields.io/twitter/follow/powxu_xd?logo=twitter&style=for-the-badge" alt="powxu_xd" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Typescript, and much more.**
 
@@ -18,6 +13,15 @@
 - 📫 How to reach me **deshmukhsambhajirao9@gmail.com**
 
 - ⚡ Fun fact **I am constantly learning and suffering from imposter syndrome.**
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-3000&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-3000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-3000" alt="atharva-3000" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/powxu_xd" target="blank"><img src="https://img.shields.io/twitter/follow/powxu_xd?logo=twitter&style=for-the-badge" alt="powxu_xd" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
