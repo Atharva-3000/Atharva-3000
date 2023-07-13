@@ -45,3 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-3000&show_icons=true&locale=en" alt="atharva-3000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-3000&" alt="atharva-3000" /></p>
+
+
+<br><br>
+[![Atharva-3000's GitHub | Languages Over Time](https://stats.quine.sh/Atharva-3000/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Atharva-3000)
