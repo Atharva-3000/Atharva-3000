@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://atharva3000-portfolio.netlify.app/](https://atharva3000-portfolio.netlify.app/)
 
-- 💬 Ask me about **web development and UX.**
+- 💬 Ask me about **web development and Web3. 💜**
+  
+- 👐 Currently **Learning Flutter. 💙**
 
 - 📫 How to reach me **deshmukhsambhajirao9@gmail.com**
 
