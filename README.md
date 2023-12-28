@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **web development and Web3. 💜**
   
-- 👐 Currently **Learning Flutter. 💙**
+- 👐 Currently **Learning From Cohort. 💙**
 
 - 📫 How to reach me **deshmukhsambhajirao9@gmail.com**
 
