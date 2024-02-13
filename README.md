@@ -12,7 +12,7 @@
   
 - 👐 Currently **Learning From Cohort. 💙**
 
-- 📫 How to reach me **deshmukhsambhajirao9@gmail.com**
+- 📫 How to reach me **https://bento.me/atharva-3000**
 
 - ⚡ Fun fact **I am constantly learning and suffering from imposter syndrome.**
 
