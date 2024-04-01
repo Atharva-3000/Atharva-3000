@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **web development and Web3. 💜**
   
-- 👐 Currently **Learning From Cohort. 💙**
+- 👐 Currently **Learning From Harkirat's Cohort. 💙**
 
 - 📫 How to reach me **https://bento.me/atharva-3000**
 
