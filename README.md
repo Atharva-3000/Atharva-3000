@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **WEB APPS**
 
-- 👨‍💻 All of my projects are available at [https://atharva3000-portfolio.netlify.app/](https://atharva3000-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://atharva3000-portfolio.vercel.app/](https://atharva3000-portfolio.vercel.app/)
 
 - 💬 Ask me about **web development and Web3. 💜**
   
